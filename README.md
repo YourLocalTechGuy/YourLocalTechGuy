@@ -25,3 +25,5 @@ C, Python, Bash, Linux / postmarketOS, Docker, git, radare2, mtkclient
 ### Contact
 - **Discord:** `@yourlocaldevguy`
 - **Email:** `yourlocaldevguy@gmail.com`
+- **XDA:** `@yourlocaldevguy`
+- **matrix:** `@sam:chat.yourlocaltechguy.dpdns.org`
