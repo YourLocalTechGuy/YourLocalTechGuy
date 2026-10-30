@@ -9,7 +9,7 @@ Just tinkering with mobile Linux ports, custom kernels, low-level system bring-u
   Got pKOS up and running on the A22 5G.
 
 <p align="left">
-  <img src="./assets/a225g-fastfetch.png" alt="fastfetch on A22 5G" width="550" />
+  <img src="./assets/a225g-fastfetch.jpg" alt="fastfetch on A22 5G" width="550" />
 </p>
 
 - **Kernel & Device Bring-up:** Working through device trees, initramfs setups, and driver packaging.
