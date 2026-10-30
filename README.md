@@ -6,10 +6,10 @@ Just tinkering with mobile Linux ports, custom kernels, low-level system bring-u
 
 ### Current Projects
 - **postmarketOS on Samsung Galaxy A22 5G (`samsung-a22x`)**  
-  Got pKOS up and running on the A22 5G.
+  Got pmOS up and running on the A22 5G.
 
 <p align="left">
-  <img src="./assets/a225g-fastfetch.jpg" alt="fastfetch on A22 5G" width="550" />
+  <img src="./assets/a22x-fastfetch.jpg" alt="fastfetch on A22 5G" width="550" />
 </p>
 
 - **Kernel & Device Bring-up:** Working through device trees, initramfs setups, and driver packaging.
@@ -18,7 +18,7 @@ Just tinkering with mobile Linux ports, custom kernels, low-level system bring-u
 ---
 
 ### Tech & Tools
-C, C++, Python, Bash, Linux / postmarketOS, Docker, git, radare2, mtkclient
+C, Python, Bash, Linux / postmarketOS, Docker, git, radare2, mtkclient
 
 ---
 
